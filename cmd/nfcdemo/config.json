@@ -1,0 +1,5 @@
+{
+  "BaseURL": "http://localhost:8181/",
+  "DelayAfterError": 1000,
+  "Listen": "localhost:8181"
+}
